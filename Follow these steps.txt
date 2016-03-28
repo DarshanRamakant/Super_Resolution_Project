@@ -1,0 +1,10 @@
+1.In your local branch commit the modified changes.
+2.Checkout 'master' branch.
+3.Pull the master branch.
+4.Checkout your local repository after pulling.
+5.Go to 'logs' symbol, tick your local repository and master. Go to the first point and right click and select 'merge'.
+6.Give 'create commit for merge' option. Resolove if there are any merge issues.
+7.Push your changes to your local repository in the server.
+8.Go to your local master and merge it with your local repository.
+9.Push the changes in master.
+
