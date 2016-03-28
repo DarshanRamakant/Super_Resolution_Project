@@ -1,9 +1,0 @@
-function success = generate_test_imgaes(img,num_imges)
-success =0;
-rand_sift = randi(20,num_images,2);
-ds = 4;
-for i = 1:num_images
-   img_out = downsample_shift(img)
-end
-
-end
