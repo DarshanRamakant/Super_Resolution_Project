@@ -1,0 +1,48 @@
+function w = get_w(sk,N1,N2,M1,M2)
+
+gamma = 2;
+M = M1*M2;
+N = N1*N2;
+w = zeros(M,N);
+for i =1:M
+
+        row_i = 1+fix((i-1)/M2);
+        col_i = 1+rem((i-1),M2);
+        v_i = [row_i;col_i];
+        
+        offset = ceil(6+norm(sk));
+        
+        if(col_i > offset)
+            col_j_start = col_i -offset;
+        else
+            col_j_start =1;
+        end
+         if(col_i < M2-offset)
+             col_j_end = col_i+offset;
+         else
+             col_j_end = M2;
+         end
+         
+        if(row_i > offset)
+            row_j_start = row_i -offset;
+        else
+            row_j_start =1;
+        end
+         if(row_i < M1-offset)
+             row_j_end = row_i+offset;
+         else
+             row_j_end = M1;
+         end
+            
+      for row_j = row_j_start:row_j_end
+         for col_j = col_j_start:col_j_end
+        v_j = [row_j;col_j];
+        sk=sk(:);
+        u_j = v_j + sk;
+        j = (row_j-1)*N2+col_j;
+        w(i,j) = exp(-(norm(v_i-u_j)^2)/gamma^2);
+             end
+         end
+  
+end
+end
