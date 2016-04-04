@@ -16,7 +16,7 @@ for i =1:num_imges
      sk = estimate_shift(ref_img,img1);
      tmp = img';
      tmp = tmp(:);
-     W((i-1)*M+1:i*M,:) = get_w(sk,n1,n2,m1,m2);
+     W((i-1)*M+1:i*M,:) = get_w_original(sk,n1,n2,m1,m2);
      y((i-1)*M+1:i*M)=tmp;
      
 end
