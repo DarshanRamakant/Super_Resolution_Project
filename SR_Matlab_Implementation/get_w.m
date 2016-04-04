@@ -1,5 +1,5 @@
 function w = get_w(sk,N1,N2,M1,M2)
-
+disp('getting w....')
 gamma = 2;
 M = M1*M2;
 N = N1*N2;
