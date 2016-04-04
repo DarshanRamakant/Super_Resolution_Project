@@ -1,4 +1,5 @@
 function d = compute_d(N1,N2)
+disp('computing d...')
 N = N1*N2;
 d = eye(N);
 for i = 1:N
