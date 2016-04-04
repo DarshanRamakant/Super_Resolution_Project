@@ -1,7 +1,8 @@
-function [y W]=get_img_params(num_imges,n1,n2,m1,m2)
+function [y W]=get_img_params(num_imges,n1,n2,m1,m2,ref_img)
 
-ref_img = imread('test1.jpg');
-ref_img=imresize(ref_img,[n1 n2]);
+%ref_img = imread('test1.jpg');
+%ref_img=imresize(ref_img,[n1 n2]);
+disp('getting_image_parameters....')
 M=m1*m2;
 N=n1*n2;
 W=zeros(num_imges*M,N);
