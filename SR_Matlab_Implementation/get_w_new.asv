@@ -1,14 +1,15 @@
-function w = get_w(sk,N1,N2,M1,M2)
+function w = get_w_new(sk,N1,N2,M1,M2)
 disp('getting w....')
 gamma = 2;
 M = M1*M2;
 N = N1*N2;
 w = zeros(M,N);
-for i =1:M
+for j =1:M
 
-        row_i = 1+fix((i-1)/M2);
-        col_i = 1+rem((i-1),M2);
-        v_i = [row_i;col_i];
+        row_j = 1+fix((j-1)/N2);
+        col_j = 1+rem((j-1),N2);
+        v_j = [row_j;col_j];
+        u_j = v_j + sk;
         
         offset = ceil(6+norm(sk));
         
