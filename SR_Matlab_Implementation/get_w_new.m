@@ -4,14 +4,14 @@ gamma = 2;
 M = M1*M2;
 N = N1*N2;
 w = zeros(M,N);
+sk=sk(:);
 for j =1:M
-        sk=sk(:);
         row_j = 1+fix((j-1)/N2);
         col_j = 1+rem((j-1),N2);
         v_j = [row_j;col_j];
         u_j = v_j + sk;
         
-        offset = ceil(16+norm(sk));
+        offset = ceil(8+norm(sk));
         
         if(row_j > offset)
             col_i_start = col_j -offset;
