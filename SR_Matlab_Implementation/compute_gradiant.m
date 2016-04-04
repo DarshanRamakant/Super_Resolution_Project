@@ -1,8 +1,9 @@
-function grad = compute_gradiant(z,W,y)
+function grad = compute_gradiant(z,W,y,N1,N2)
 
 disp('entering comp gradiant')
 [M N] = size(W);
-d = compute_d(128,128);
+d = compute_d(N1,N2);
+%d= [3 5; 7 8];
 sigma = 10;
 lambda = 150;
 grad = zeros(N,1);
@@ -20,6 +21,6 @@ grad = zeros(N,1);
 % grad(k) = sum_1+sum_2;
 % end
 
-grad = (1/sigma^2)*(W'*(W*z-y))+(1/lambda)*(d'*(d*z));
+grad = ((W'*(W*z-y))/(sigma^2))+((d'*(d*z))/(lambda));
 disp('finished comp gradiant')
 end
