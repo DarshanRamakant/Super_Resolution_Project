@@ -1,0 +1,1145 @@
+Running SR with optimal distributions
+--------------------------------------------------------------------
+betak = 
+121.628 96.9551 107.227 100.845 117.117 103.25 106.135 180.216 161.734 158.448 
+alpha_h = 5.46784, alpha_v = 4.69926
+
+-------------------------------------------------------------------
+Iteration 1
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 100 iterations, flag = 1
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Estimated registration sx = -0.325927, sy = -0.822975, theta = -0.548619
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.229138, sy = -1.69035, theta = -0.653944
+Estimated registration sx = -0.229138, sy = -1.69035, theta = -0.653944
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.86068, sy = 0.425958, theta = 0.362026
+Estimated registration sx = 0.51355, sy = 0.224275, theta = 1.19401
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.436237, sy = -0.299823, theta = 0.289171
+Estimated registration sx = -0.36567, sy = -0.40777, theta = -0.271917
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = 0.66073, sy = 0.525123, theta = 0.226594
+Estimated registration sx = 0.66073, sy = 0.525123, theta = 0.226594
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Estimated registration sx = -1.85305, sy = 0.323931, theta = 0.0349089
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.794975, sy = 0.56839, theta = -0.1194
+Estimated registration sx = 0.794975, sy = 0.56839, theta = -0.1194
+Estimating the hyperparameters
+avg DxSigma = 0.0754715, avg DySigma = 0.0754715
+k = 1, e = 0.304395, xOx = 0, traceBkSigma = 1.04977, traceOSigma = 0
+k = 2, e = 0.627366, xOx = 0, traceBkSigma = 0.69583, traceOSigma = 0
+k = 3, e = 0.816555, xOx = 0.0281861, traceBkSigma = 0.828612, traceOSigma = 0.0070908
+k = 4, e = 0.793339, xOx = 0, traceBkSigma = 0.743313, traceOSigma = 0
+k = 5, e = 0.679237, xOx = 0, traceBkSigma = 0.805761, traceOSigma = 0
+k = 6, e = 2.50704, xOx = 0.0340496, traceBkSigma = 0.788398, traceOSigma = 0.00887248
+k = 7, e = 0.51292, xOx = 0.028281, traceBkSigma = 0.750978, traceOSigma = 0.00722873
+k = 8, e = 2.86585, xOx = 0, traceBkSigma = 0.724491, traceOSigma = 0
+k = 9, e = 1.53348, xOx = 0.0195013, traceBkSigma = 0.787652, traceOSigma = 0.00463976
+k = 10, e = 2.53104, xOx = 0, traceBkSigma = 0.754633, traceOSigma = 0
+betak = 
+189.047 193.471 152.341 166.596 172.391 76.6843 197.013 71.3025 109.156 77.9139 
+alpha_h = 0.444769, alpha_v = 0.519745,xconv = 0.679233
+
+-------------------------------------------------------------------
+Iteration 2
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 98 iterations, flag = 1
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.325927, sy = -0.822975, theta = -0.548619
+Estimated registration sx = -0.325927, sy = -0.822975, theta = -0.548619
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.229138, sy = -1.69035, theta = -0.653944
+Estimated registration sx = -0.229138, sy = -1.69035, theta = -0.653944
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.51355, sy = 0.224275, theta = 1.19401
+Estimated registration sx = 0.51355, sy = 0.224275, theta = 1.19401
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.36567, sy = -0.40777, theta = -0.271917
+Estimated registration sx = -0.36567, sy = -0.40777, theta = -0.271917
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = 0.66073, sy = 0.525123, theta = 0.226594
+Estimated registration sx = 0.66073, sy = 0.525123, theta = 0.226594
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.85305, sy = 0.323931, theta = 0.0349089
+Estimated registration sx = -1.85305, sy = 0.323931, theta = 0.0349089
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.794975, sy = 0.56839, theta = -0.1194
+Estimated registration sx = 0.794975, sy = 0.56839, theta = -0.1194
+Estimating the hyperparameters
+avg DxSigma = 0.0561672, avg DySigma = 0.0561672
+k = 1, e = 0.201298, xOx = 0, traceBkSigma = 0.757407, traceOSigma = 0
+k = 2, e = 0.47274, xOx = 0, traceBkSigma = 0.515241, traceOSigma = 0
+k = 3, e = 0.403615, xOx = 0, traceBkSigma = 0.611591, traceOSigma = 0
+k = 4, e = 0.559511, xOx = 0, traceBkSigma = 0.548336, traceOSigma = 0
+k = 5, e = 0.595298, xOx = 0, traceBkSigma = 0.589956, traceOSigma = 0
+k = 6, e = 1.18054, xOx = 0, traceBkSigma = 0.589391, traceOSigma = 0
+k = 7, e = 0.41124, xOx = 0, traceBkSigma = 0.554467, traceOSigma = 0
+k = 8, e = 4.51939, xOx = 0, traceBkSigma = 0.550292, traceOSigma = 0
+k = 9, e = 0.874102, xOx = 0, traceBkSigma = 0.573283, traceOSigma = 0
+k = 10, e = 4.56469, xOx = 0, traceBkSigma = 0.579337, traceOSigma = 0
+betak = 
+267.027 259.114 252.165 231.079 215.988 144.638 265.091 50.4963 176.871 49.7664 
+alpha_h = 0.690898, alpha_v = 0.819902,xconv = 0.371862
+
+-------------------------------------------------------------------
+Iteration 3
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 100 iterations, flag = 1
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.325927, sy = -0.822975, theta = -0.548619
+Estimated registration sx = -0.541686, sy = -0.951414, theta = -0.345426
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.229138, sy = -1.69035, theta = -0.653944
+Estimated registration sx = -0.229138, sy = -1.69035, theta = -0.653944
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.51355, sy = 0.224275, theta = 1.19401
+Estimated registration sx = 0.813447, sy = 0.506431, theta = 0.673839
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.36567, sy = -0.40777, theta = -0.271917
+Estimated registration sx = -0.36567, sy = -0.40777, theta = -0.271917
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = 0.66073, sy = 0.525123, theta = 0.226594
+Estimated registration sx = 0.930059, sy = 0.451469, theta = 0.863069
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.85305, sy = 0.323931, theta = 0.0349089
+Estimated registration sx = -1.85305, sy = 0.323931, theta = 0.0349089
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.794975, sy = 0.56839, theta = -0.1194
+Estimated registration sx = 0.794975, sy = 0.56839, theta = -0.1194
+Estimating the hyperparameters
+avg DxSigma = 0.034438, avg DySigma = 0.034438
+k = 1, e = 0.199285, xOx = 0, traceBkSigma = 0.467157, traceOSigma = 0
+k = 2, e = 0.426513, xOx = 0, traceBkSigma = 0.319228, traceOSigma = 0
+k = 3, e = 0.354918, xOx = 0.0113612, traceBkSigma = 0.393922, traceOSigma = 0.00269344
+k = 4, e = 0.53264, xOx = 0, traceBkSigma = 0.33923, traceOSigma = 0
+k = 5, e = 0.624743, xOx = 0, traceBkSigma = 0.363029, traceOSigma = 0
+k = 6, e = 0.942359, xOx = 0.0186125, traceBkSigma = 0.36459, traceOSigma = 0.00485737
+k = 7, e = 0.339705, xOx = 0, traceBkSigma = 0.340455, traceOSigma = 0
+k = 8, e = 6.26876, xOx = 0.0640754, traceBkSigma = 0.375699, traceOSigma = 0.0159854
+k = 9, e = 0.824593, xOx = 0, traceBkSigma = 0.352843, traceOSigma = 0
+k = 10, e = 6.87265, xOx = 0, traceBkSigma = 0.356813, traceOSigma = 0
+betak = 
+384.129 343.282 335.564 293.622 259.169 192.421 376.382 38.0696 217.422 35.4107 
+alpha_h = 1.02482, alpha_v = 1.03754,xconv = 0.17265
+
+-------------------------------------------------------------------
+Iteration 4
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 100 iterations, flag = 1
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.541686, sy = -0.951414, theta = -0.345426
+Estimated registration sx = -0.541686, sy = -0.951414, theta = -0.345426
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.229138, sy = -1.69035, theta = -0.653944
+Estimated registration sx = -0.229138, sy = -1.69035, theta = -0.653944
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.813447, sy = 0.506431, theta = 0.673839
+Estimated registration sx = 0.813447, sy = 0.506431, theta = 0.673839
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.36567, sy = -0.40777, theta = -0.271917
+Estimated registration sx = -0.59814, sy = -0.415577, theta = -0.0932931
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = 0.930059, sy = 0.451469, theta = 0.863069
+Estimated registration sx = 0.70324, sy = 0.18087, theta = 0.0990387
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.85305, sy = 0.323931, theta = 0.0349089
+Estimated registration sx = -1.76832, sy = 0.439605, theta = -0.237628
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.794975, sy = 0.56839, theta = -0.1194
+Estimated registration sx = 0.811423, sy = 0.225477, theta = -0.0597385
+Estimating the hyperparameters
+avg DxSigma = 0.0216826, avg DySigma = 0.0216826
+k = 1, e = 0.202616, xOx = 0, traceBkSigma = 0.29895, traceOSigma = 0
+k = 2, e = 0.424505, xOx = 0, traceBkSigma = 0.203356, traceOSigma = 0
+k = 3, e = 0.330061, xOx = 0, traceBkSigma = 0.246568, traceOSigma = 0
+k = 4, e = 0.564706, xOx = 0, traceBkSigma = 0.215754, traceOSigma = 0
+k = 5, e = 0.656743, xOx = 0, traceBkSigma = 0.230667, traceOSigma = 0
+k = 6, e = 0.68438, xOx = 0, traceBkSigma = 0.228934, traceOSigma = 0
+k = 7, e = 0.327474, xOx = 0.00796721, traceBkSigma = 0.214696, traceOSigma = 0.00115876
+k = 8, e = 7.01585, xOx = 0.0784609, traceBkSigma = 0.231513, traceOSigma = 0.0130678
+k = 9, e = 0.860428, xOx = 0.013787, traceBkSigma = 0.2143, traceOSigma = 0.00223933
+k = 10, e = 7.9008, xOx = 0.0843221, traceBkSigma = 0.236493, traceOSigma = 0.0142585
+betak = 
+510.402 407.733 443.96 328.012 288.48 280.298 464.36 34.8827 234.7 31.0835 
+alpha_h = 1.30638, alpha_v = 1.24992,xconv = 0.0753014
+
+-------------------------------------------------------------------
+Iteration 5
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 100 iterations, flag = 1
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.541686, sy = -0.951414, theta = -0.345426
+Estimated registration sx = -0.541686, sy = -0.951414, theta = -0.345426
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.229138, sy = -1.69035, theta = -0.653944
+Estimated registration sx = -0.229138, sy = -1.69035, theta = -0.653944
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.813447, sy = 0.506431, theta = 0.673839
+Estimated registration sx = 0.879743, sy = 0.496679, theta = 0.306303
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.59814, sy = -0.415577, theta = -0.0932931
+Estimated registration sx = -0.626156, sy = -0.394935, theta = -0.00349734
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = 0.70324, sy = 0.18087, theta = 0.0990387
+Estimated registration sx = 0.516005, sy = 0.0909667, theta = 0.109159
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.76832, sy = 0.439605, theta = -0.237628
+Estimated registration sx = -1.64816, sy = 0.437057, theta = -0.267136
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.811423, sy = 0.225477, theta = -0.0597385
+Estimated registration sx = 0.619572, sy = 0.139621, theta = -0.0761704
+Estimating the hyperparameters
+avg DxSigma = 0.0152982, avg DySigma = 0.0152982
+k = 1, e = 0.208594, xOx = 0, traceBkSigma = 0.21284, traceOSigma = 0
+k = 2, e = 0.433844, xOx = 0, traceBkSigma = 0.144648, traceOSigma = 0
+k = 3, e = 0.346144, xOx = 0, traceBkSigma = 0.17371, traceOSigma = 0
+k = 4, e = 0.596425, xOx = 0, traceBkSigma = 0.15351, traceOSigma = 0
+k = 5, e = 0.68113, xOx = 0, traceBkSigma = 0.163606, traceOSigma = 0
+k = 6, e = 0.633393, xOx = 0.0106983, traceBkSigma = 0.164067, traceOSigma = 0.00127109
+k = 7, e = 0.294546, xOx = 0.00645906, traceBkSigma = 0.152472, traceOSigma = 0.000682307
+k = 8, e = 7.04496, xOx = 0.0857182, traceBkSigma = 0.166155, traceOSigma = 0.00996573
+k = 9, e = 0.804661, xOx = 0.0128043, traceBkSigma = 0.147779, traceOSigma = 0.00141314
+k = 10, e = 7.96667, xOx = 0.0961557, traceBkSigma = 0.163139, traceOSigma = 0.0111693
+betak = 
+607.45 442.53 492.445 341.363 303.053 316.272 563.679 35.0359 264.83 31.0788 
+alpha_h = 1.5012, alpha_v = 1.40818,xconv = 0.0316622
+
+-------------------------------------------------------------------
+Iteration 6
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 99 iterations, flag = 1
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.541686, sy = -0.951414, theta = -0.345426
+Estimated registration sx = -0.586458, sy = -0.904572, theta = -0.118471
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.229138, sy = -1.69035, theta = -0.653944
+Estimated registration sx = -0.148867, sy = -1.782, theta = -0.426397
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.879743, sy = 0.496679, theta = 0.306303
+Estimated registration sx = 0.890408, sy = 0.481169, theta = 0.14971
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.626156, sy = -0.394935, theta = -0.00349734
+Estimated registration sx = -0.608621, sy = -0.382039, theta = 0.00633676
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = 0.516005, sy = 0.0909667, theta = 0.109159
+Estimated registration sx = 0.421507, sy = 0.0803725, theta = 0.224698
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.64816, sy = 0.437057, theta = -0.267136
+Estimated registration sx = -1.57757, sy = 0.433113, theta = -0.309091
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.619572, sy = 0.139621, theta = -0.0761704
+Estimated registration sx = 0.517949, sy = 0.137366, theta = 0.0187158
+Estimating the hyperparameters
+avg DxSigma = 0.0122435, avg DySigma = 0.0122435
+k = 1, e = 0.206368, xOx = 0, traceBkSigma = 0.170768, traceOSigma = 0
+k = 2, e = 0.448303, xOx = 0, traceBkSigma = 0.116262, traceOSigma = 0
+k = 3, e = 0.362428, xOx = 0.00609046, traceBkSigma = 0.136543, traceOSigma = 0.000543749
+k = 4, e = 0.629369, xOx = 0, traceBkSigma = 0.123452, traceOSigma = 0
+k = 5, e = 0.700771, xOx = 0.00995911, traceBkSigma = 0.139386, traceOSigma = 0.000923994
+k = 6, e = 0.611963, xOx = 0.00948213, traceBkSigma = 0.131569, traceOSigma = 0.000904793
+k = 7, e = 0.294841, xOx = 0.0053186, traceBkSigma = 0.121809, traceOSigma = 0.000458984
+k = 8, e = 7.00208, xOx = 0.0853998, traceBkSigma = 0.135108, traceOSigma = 0.00801777
+k = 9, e = 0.747244, xOx = 0.0113739, traceBkSigma = 0.117843, traceOSigma = 0.000995735
+k = 10, e = 7.96944, xOx = 0.0962421, traceBkSigma = 0.129707, traceOSigma = 0.00894887
+betak = 
+678.8 453.446 506.323 340.054 300.808 339.559 606.021 35.4051 291.753 31.203 
+alpha_h = 1.6338, alpha_v = 1.51521,xconv = 0.0171439
+
+-------------------------------------------------------------------
+Iteration 7
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 97 iterations, flag = 1
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.586458, sy = -0.904572, theta = -0.118471
+Estimated registration sx = -0.571178, sy = -0.889219, theta = -0.0217761
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.148867, sy = -1.782, theta = -0.426397
+Estimated registration sx = -0.124503, sy = -1.7857, theta = -0.373049
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.890408, sy = 0.481169, theta = 0.14971
+Estimated registration sx = 0.894168, sy = 0.475415, theta = 0.130832
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.608621, sy = -0.382039, theta = 0.00633676
+Estimated registration sx = -0.591567, sy = -0.374728, theta = 0.0585741
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = 0.421507, sy = 0.0803725, theta = 0.224698
+Estimated registration sx = -0.664259, sy = -3.4607, theta = -0.81305
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.57757, sy = 0.433113, theta = -0.309091
+Estimated registration sx = -1.54813, sy = 0.434444, theta = -0.254211
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.517949, sy = 0.137366, theta = 0.0187158
+Estimated registration sx = 0.486029, sy = 0.134191, theta = 0.0745225
+Estimating the hyperparameters
+avg DxSigma = 0.010682, avg DySigma = 0.010682
+k = 1, e = 0.199471, xOx = 0, traceBkSigma = 0.148904, traceOSigma = 0
+k = 2, e = 0.45965, xOx = 0, traceBkSigma = 0.101704, traceOSigma = 0
+k = 3, e = 0.377183, xOx = 0.00592341, traceBkSigma = 0.11804, traceOSigma = 0.000464904
+k = 4, e = 0.654672, xOx = 0, traceBkSigma = 0.108085, traceOSigma = 0
+k = 5, e = 0.707675, xOx = 0.0099845, traceBkSigma = 0.123232, traceOSigma = 0.000829169
+k = 6, e = 0.606144, xOx = 0.00883265, traceBkSigma = 0.115054, traceOSigma = 0.000745847
+k = 7, e = 0.300266, xOx = 0.00494853, traceBkSigma = 0.106116, traceOSigma = 0.000376439
+k = 8, e = 6.98248, xOx = 0.0819954, traceBkSigma = 0.109238, traceOSigma = 0.00636554
+k = 9, e = 0.717428, xOx = 0.0102793, traceBkSigma = 0.102764, traceOSigma = 0.000792357
+k = 10, e = 7.96554, xOx = 0.0958963, traceBkSigma = 0.113452, traceOSigma = 0.00789353
+betak = 
+734.841 456.04 510.355 335.624 304.139 350.312 621.801 35.6542 307.965 31.2852 
+alpha_h = 1.71988, alpha_v = 1.5897,xconv = 0.0120726
+
+-------------------------------------------------------------------
+Iteration 8
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 93 iterations, flag = 1
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.571178, sy = -0.889219, theta = -0.0217761
+Estimated registration sx = -0.551308, sy = -0.882907, theta = 0.0309075
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.124503, sy = -1.7857, theta = -0.373049
+Estimated registration sx = -0.118809, sy = -1.78069, theta = -0.33188
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.894168, sy = 0.475415, theta = 0.130832
+Estimated registration sx = 0.90045, sy = 0.469265, theta = 0.143584
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.591567, sy = -0.374728, theta = 0.0585741
+Estimated registration sx = -0.573651, sy = -0.375383, theta = 0.0938167
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = -0.664259, sy = -3.4607, theta = -0.81305
+Estimated registration sx = -0.664259, sy = -3.4607, theta = -0.81305
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.54813, sy = 0.434444, theta = -0.254211
+Estimated registration sx = -1.53124, sy = 0.431517, theta = -0.200036
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.486029, sy = 0.134191, theta = 0.0745225
+Estimated registration sx = 0.474737, sy = 0.163883, theta = 0.0349712
+Estimating the hyperparameters
+avg DxSigma = 0.00979894, avg DySigma = 0.00979894
+k = 1, e = 0.191207, xOx = 0, traceBkSigma = 0.136608, traceOSigma = 0
+k = 2, e = 0.464402, xOx = 0, traceBkSigma = 0.0934763, traceOSigma = 0
+k = 3, e = 0.38603, xOx = 0.00587704, traceBkSigma = 0.107746, traceOSigma = 0.000418316
+k = 4, e = 0.667898, xOx = 0, traceBkSigma = 0.0993242, traceOSigma = 0
+k = 5, e = 0.715681, xOx = 0.00986121, traceBkSigma = 0.113106, traceOSigma = 0.000746756
+k = 6, e = 0.598407, xOx = 0.0085642, traceBkSigma = 0.106036, traceOSigma = 0.000660642
+k = 7, e = 0.30261, xOx = 0.00482293, traceBkSigma = 0.0971412, traceOSigma = 0.000332749
+k = 8, e = 1.57063, xOx = 0, traceBkSigma = 0.100261, traceOSigma = 0
+k = 9, e = 0.706678, xOx = 0.00973878, traceBkSigma = 0.0943205, traceOSigma = 0.000685652
+k = 10, e = 8.11645, xOx = 0.0953725, traceBkSigma = 0.102649, traceOSigma = 0.00712408
+betak = 
+780.926 458.882 511.927 333.671 304.982 358.711 632.244 153.211 315.495 30.7633 
+alpha_h = 1.77429, alpha_v = 1.62936,xconv = 0.00876031
+
+-------------------------------------------------------------------
+Iteration 9
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 86 iterations, flag = 3
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.551308, sy = -0.882907, theta = 0.0309075
+Estimated registration sx = -0.537227, sy = -0.8897, theta = 0.0369661
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.118809, sy = -1.78069, theta = -0.33188
+Estimated registration sx = -0.118809, sy = -1.78069, theta = -0.33188
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.90045, sy = 0.469265, theta = 0.143584
+Estimated registration sx = 0.90777, sy = 0.462354, theta = 0.117095
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.573651, sy = -0.375383, theta = 0.0938167
+Estimated registration sx = -0.560187, sy = -0.376344, theta = 0.0948163
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = -0.664259, sy = -3.4607, theta = -0.81305
+Estimated registration sx = -0.664259, sy = -3.4607, theta = -0.81305
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.53124, sy = 0.431517, theta = -0.200036
+Estimated registration sx = -1.51095, sy = 0.426126, theta = -0.211084
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.474737, sy = 0.163883, theta = 0.0349712
+Estimated registration sx = 0.468142, sy = 0.165484, theta = 0.0715396
+Estimating the hyperparameters
+avg DxSigma = 0.00917348, avg DySigma = 0.00917348
+k = 1, e = 0.193393, xOx = 0, traceBkSigma = 0.127913, traceOSigma = 0
+k = 2, e = 0.481703, xOx = 0, traceBkSigma = 0.0876275, traceOSigma = 0
+k = 3, e = 0.383758, xOx = 0.00585936, traceBkSigma = 0.10115, traceOSigma = 0.000397349
+k = 4, e = 0.673445, xOx = 0, traceBkSigma = 0.0931078, traceOSigma = 0
+k = 5, e = 0.700466, xOx = 0, traceBkSigma = 0.105907, traceOSigma = 0
+k = 6, e = 0.608515, xOx = 0.00836131, traceBkSigma = 0.0996956, traceOSigma = 0.000610539
+k = 7, e = 0.31075, xOx = 0.00474332, traceBkSigma = 0.0907862, traceOSigma = 0.00031112
+k = 8, e = 1.47402, xOx = 0, traceBkSigma = 0.0938343, traceOSigma = 0
+k = 9, e = 0.712212, xOx = 0.00952474, traceBkSigma = 0.0883972, traceOSigma = 0.000634465
+k = 10, e = 8.08853, xOx = 0.0973092, traceBkSigma = 0.0961316, traceOSigma = 0.00687464
+betak = 
+796.748 449.651 521.211 333.963 317.471 356.953 629.626 163.28 315.75 30.8849 
+alpha_h = 1.81672, alpha_v = 1.66506,xconv = 0.00901611
+
+-------------------------------------------------------------------
+Iteration 10
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 85 iterations, flag = 3
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.537227, sy = -0.8897, theta = 0.0369661
+Estimated registration sx = -0.526623, sy = -0.893717, theta = 0.035093
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.118809, sy = -1.78069, theta = -0.33188
+Estimated registration sx = -0.118809, sy = -1.78069, theta = -0.33188
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.90777, sy = 0.462354, theta = 0.117095
+Estimated registration sx = 0.90777, sy = 0.462354, theta = 0.117095
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.560187, sy = -0.376344, theta = 0.0948163
+Estimated registration sx = -0.549655, sy = -0.378793, theta = 0.0894845
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = -0.664259, sy = -3.4607, theta = -0.81305
+Estimated registration sx = -0.664259, sy = -3.4607, theta = -0.81305
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.51095, sy = 0.426126, theta = -0.211084
+Estimated registration sx = -1.50089, sy = 0.423059, theta = -0.21902
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.468142, sy = 0.165484, theta = 0.0715396
+Estimated registration sx = 0.465549, sy = 0.164123, theta = 0.0751319
+Estimating the hyperparameters
+avg DxSigma = 0.00883375, avg DySigma = 0.00883375
+k = 1, e = 0.195533, xOx = 0, traceBkSigma = 0.123203, traceOSigma = 0
+k = 2, e = 0.489894, xOx = 0, traceBkSigma = 0.0844676, traceOSigma = 0
+k = 3, e = 0.384524, xOx = 0.00575508, traceBkSigma = 0.0975754, traceOSigma = 0.000378401
+k = 4, e = 0.677568, xOx = 0, traceBkSigma = 0.0897261, traceOSigma = 0
+k = 5, e = 0.694409, xOx = 0, traceBkSigma = 0.102002, traceOSigma = 0
+k = 6, e = 0.613656, xOx = 0, traceBkSigma = 0.0960399, traceOSigma = 0
+k = 7, e = 0.315026, xOx = 0.00476336, traceBkSigma = 0.0873215, traceOSigma = 0.000302637
+k = 8, e = 1.46231, xOx = 0, traceBkSigma = 0.0903973, traceOSigma = 0
+k = 9, e = 0.713481, xOx = 0.00950918, traceBkSigma = 0.0852948, traceOSigma = 0.000614807
+k = 10, e = 8.07877, xOx = 0.0969233, traceBkSigma = 0.0926822, traceOSigma = 0.00664459
+betak = 
+803.173 445.712 524.34 333.64 321.442 360.718 628.354 164.873 316.479 30.9365 
+alpha_h = 1.84417, alpha_v = 1.68737,xconv = 0.00344954
+
+-------------------------------------------------------------------
+Iteration 11
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 82 iterations, flag = 3
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.526623, sy = -0.893717, theta = 0.035093
+Estimated registration sx = -0.519386, sy = -0.895251, theta = 0.0344559
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.118809, sy = -1.78069, theta = -0.33188
+Estimated registration sx = -0.118809, sy = -1.78069, theta = -0.33188
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.90777, sy = 0.462354, theta = 0.117095
+Estimated registration sx = 0.90777, sy = 0.462354, theta = 0.117095
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.549655, sy = -0.378793, theta = 0.0894845
+Estimated registration sx = -0.542652, sy = -0.380079, theta = 0.0861996
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = -0.664259, sy = -3.4607, theta = -0.81305
+Estimated registration sx = -0.664259, sy = -3.4607, theta = -0.81305
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.50089, sy = 0.423059, theta = -0.21902
+Estimated registration sx = -1.49576, sy = 0.421928, theta = -0.220645
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.465549, sy = 0.164123, theta = 0.0751319
+Estimated registration sx = 0.464031, sy = 0.162762, theta = 0.0752475
+Estimating the hyperparameters
+avg DxSigma = 0.00862407, avg DySigma = 0.00862407
+k = 1, e = 0.196411, xOx = 0, traceBkSigma = 0.120303, traceOSigma = 0
+k = 2, e = 0.494059, xOx = 0, traceBkSigma = 0.0825137, traceOSigma = 0
+k = 3, e = 0.386286, xOx = 0.00572076, traceBkSigma = 0.0953157, traceOSigma = 0.000368505
+k = 4, e = 0.681423, xOx = 0, traceBkSigma = 0.0876297, traceOSigma = 0
+k = 5, e = 0.693673, xOx = 0, traceBkSigma = 0.0995973, traceOSigma = 0
+k = 6, e = 0.614395, xOx = 0, traceBkSigma = 0.0937819, traceOSigma = 0
+k = 7, e = 0.317341, xOx = 0.0047734, traceBkSigma = 0.0851989, traceOSigma = 0.00029701
+k = 8, e = 1.46081, xOx = 0, traceBkSigma = 0.0882788, traceOSigma = 0
+k = 9, e = 0.713675, xOx = 0.00948186, traceBkSigma = 0.0833745, traceOSigma = 0.000600721
+k = 10, e = 8.07635, xOx = 0.0967658, traceBkSigma = 0.090573, traceOSigma = 0.00649517
+betak = 
+808.301 444.003 524.923 332.877 322.715 361.492 628.051 165.258 317.172 30.9546 
+alpha_h = 1.86176, alpha_v = 1.70154,xconv = 0.00215789
+
+-------------------------------------------------------------------
+Iteration 12
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 79 iterations, flag = 3
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.519386, sy = -0.895251, theta = 0.0344559
+Estimated registration sx = -0.514729, sy = -0.895715, theta = 0.0349055
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.118809, sy = -1.78069, theta = -0.33188
+Estimated registration sx = -0.10304, sy = -1.78534, theta = -0.335435
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.90777, sy = 0.462354, theta = 0.117095
+Estimated registration sx = 0.90777, sy = 0.462354, theta = 0.117095
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.542652, sy = -0.380079, theta = 0.0861996
+Estimated registration sx = -0.538069, sy = -0.380461, theta = 0.0849896
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = -0.664259, sy = -3.4607, theta = -0.81305
+Estimated registration sx = -0.664259, sy = -3.4607, theta = -0.81305
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.49576, sy = 0.421928, theta = -0.220645
+Estimated registration sx = -1.49262, sy = 0.4216, theta = -0.220368
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.464031, sy = 0.162762, theta = 0.0752475
+Estimated registration sx = 0.463485, sy = 0.161842, theta = 0.0748827
+Estimating the hyperparameters
+avg DxSigma = 0.00849111, avg DySigma = 0.00849111
+k = 1, e = 0.196649, xOx = 0, traceBkSigma = 0.118457, traceOSigma = 0
+k = 2, e = 0.496583, xOx = 0, traceBkSigma = 0.0812728, traceOSigma = 0
+k = 3, e = 0.387818, xOx = 0.00571459, traceBkSigma = 0.0938612, traceOSigma = 0.000363236
+k = 4, e = 0.68431, xOx = 0, traceBkSigma = 0.0862999, traceOSigma = 0
+k = 5, e = 0.693928, xOx = 0.00930716, traceBkSigma = 0.0991384, traceOSigma = 0.000626385
+k = 6, e = 0.615117, xOx = 0, traceBkSigma = 0.0923513, traceOSigma = 0
+k = 7, e = 0.318833, xOx = 0.00477593, traceBkSigma = 0.0838635, traceOSigma = 0.000293198
+k = 8, e = 1.46087, xOx = 0, traceBkSigma = 0.0869362, traceOSigma = 0
+k = 9, e = 0.71392, xOx = 0.00945905, traceBkSigma = 0.0821515, traceOSigma = 0.000591927
+k = 10, e = 8.07428, xOx = 0.0967107, traceBkSigma = 0.0892307, traceOSigma = 0.00640862
+betak = 
+812.424 443.017 524.852 332.204 318.804 361.854 627.812 165.395 317.569 30.9679 
+alpha_h = 1.87355, alpha_v = 1.71104,xconv = 0.00143544
+
+-------------------------------------------------------------------
+Iteration 13
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 81 iterations, flag = 3
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.514729, sy = -0.895715, theta = 0.0349055
+Estimated registration sx = -0.51072, sy = -0.895873, theta = 0.0368888
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.10304, sy = -1.78534, theta = -0.335435
+Estimated registration sx = -0.10304, sy = -1.78534, theta = -0.335435
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.90777, sy = 0.462354, theta = 0.117095
+Estimated registration sx = 0.90777, sy = 0.462354, theta = 0.117095
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.538069, sy = -0.380461, theta = 0.0849896
+Estimated registration sx = -0.534191, sy = -0.380642, theta = 0.0858006
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = -0.664259, sy = -3.4607, theta = -0.81305
+Estimated registration sx = -0.664259, sy = -3.4607, theta = -0.81305
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.49262, sy = 0.4216, theta = -0.220368
+Estimated registration sx = -1.48986, sy = 0.421346, theta = -0.218205
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.463485, sy = 0.161842, theta = 0.0748827
+Estimated registration sx = 0.462676, sy = 0.160718, theta = 0.0739148
+Estimating the hyperparameters
+avg DxSigma = 0.00840339, avg DySigma = 0.00840339
+k = 1, e = 0.196316, xOx = 0, traceBkSigma = 0.117225, traceOSigma = 0
+k = 2, e = 0.498468, xOx = 0, traceBkSigma = 0.0804497, traceOSigma = 0
+k = 3, e = 0.389431, xOx = 0.00571521, traceBkSigma = 0.0929007, traceOSigma = 0.000360575
+k = 4, e = 0.687117, xOx = 0, traceBkSigma = 0.0854191, traceOSigma = 0
+k = 5, e = 0.69498, xOx = 0, traceBkSigma = 0.0981089, traceOSigma = 0
+k = 6, e = 0.615195, xOx = 0, traceBkSigma = 0.0914124, traceOSigma = 0
+k = 7, e = 0.320097, xOx = 0.00477784, traceBkSigma = 0.082984, traceOSigma = 0.000291101
+k = 8, e = 1.46169, xOx = 0, traceBkSigma = 0.086056, traceOSigma = 0
+k = 9, e = 0.713319, xOx = 0.00944653, traceBkSigma = 0.0813497, traceOSigma = 0.000586765
+k = 10, e = 8.0703, xOx = 0.0966713, traceBkSigma = 0.0883647, traceOSigma = 0.00635802
+betak = 
+816.482 442.204 524.153 331.376 322.789 362.294 627.22 165.402 318.13 30.9864 
+alpha_h = 1.88207, alpha_v = 1.71797,xconv = 0.00113624
+
+-------------------------------------------------------------------
+Iteration 14
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 82 iterations, flag = 3
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.51072, sy = -0.895873, theta = 0.0368888
+Estimated registration sx = -0.508106, sy = -0.895854, theta = 0.0388172
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.10304, sy = -1.78534, theta = -0.335435
+Estimated registration sx = -0.0977043, sy = -1.78667, theta = -0.334864
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.90777, sy = 0.462354, theta = 0.117095
+Estimated registration sx = 0.90777, sy = 0.462354, theta = 0.117095
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.534191, sy = -0.380642, theta = 0.0858006
+Estimated registration sx = -0.531683, sy = -0.380683, theta = 0.0861004
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = -0.664259, sy = -3.4607, theta = -0.81305
+Estimated registration sx = -0.664259, sy = -3.4607, theta = -0.81305
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.48986, sy = 0.421346, theta = -0.218205
+Estimated registration sx = -1.48839, sy = 0.421472, theta = -0.216673
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.462676, sy = 0.160718, theta = 0.0739148
+Estimated registration sx = 0.462589, sy = 0.160473, theta = 0.0751627
+Estimating the hyperparameters
+avg DxSigma = 0.00834198, avg DySigma = 0.00834198
+k = 1, e = 0.196334, xOx = 0, traceBkSigma = 0.116362, traceOSigma = 0
+k = 2, e = 0.499507, xOx = 0, traceBkSigma = 0.0798746, traceOSigma = 0
+k = 3, e = 0.39023, xOx = 0.00572277, traceBkSigma = 0.0922231, traceOSigma = 0.000358445
+k = 4, e = 0.688282, xOx = 0, traceBkSigma = 0.0848051, traceOSigma = 0
+k = 5, e = 0.694247, xOx = 0.00929635, traceBkSigma = 0.0977411, traceOSigma = 0.000617283
+k = 6, e = 0.615566, xOx = 0, traceBkSigma = 0.0907537, traceOSigma = 0
+k = 7, e = 0.320743, xOx = 0.00478243, traceBkSigma = 0.0823698, traceOSigma = 0.000289281
+k = 8, e = 1.46195, xOx = 0, traceBkSigma = 0.0854381, traceOSigma = 0
+k = 9, e = 0.71372, xOx = 0.00942897, traceBkSigma = 0.0807833, traceOSigma = 0.00058199
+k = 10, e = 8.07019, xOx = 0.0966164, traceBkSigma = 0.0877329, traceOSigma = 0.00631184
+betak = 
+818.685 441.85 524.016 331.14 319.241 362.442 627.168 165.44 318.204 30.9896 
+alpha_h = 1.88731, alpha_v = 1.72211,xconv = 0.000715972
+
+-------------------------------------------------------------------
+Iteration 15
+Finished calculating Sigma registration terms
+Running PCG to estimate the image
+PCG returned the solution in 82 iterations, flag = 3
+Estimating the registration parameters
+
+********************************************
+Image 2
+Initial registration   sx = 2.32615, sy = -0.354239, theta = 0.351401
+Previous registration  sx = 2.32615, sy = -0.354239, theta = 0.351401
+Estimated registration sx = 2.32615, sy = -0.354239, theta = 0.351401
+
+********************************************
+Image 3
+Initial registration   sx = -0.426639, sy = -0.861176, theta = -0.0628974
+Previous registration  sx = -0.508106, sy = -0.895854, theta = 0.0388172
+Estimated registration sx = -0.506196, sy = -0.895696, theta = 0.040593
+
+********************************************
+Image 4
+Initial registration   sx = 2.22003, sy = -1.29447, theta = 0.241162
+Previous registration  sx = 2.22003, sy = -1.29447, theta = 0.241162
+Estimated registration sx = 2.22003, sy = -1.29447, theta = 0.241162
+
+********************************************
+Image 5
+Initial registration   sx = -0.229138, sy = -1.69035, theta = -0.653944
+Previous registration  sx = -0.0977043, sy = -1.78667, theta = -0.334864
+Estimated registration sx = -0.0960333, sy = -1.78692, theta = -0.334443
+
+********************************************
+Image 6
+Initial registration   sx = 0.86068, sy = 0.425958, theta = 0.362026
+Previous registration  sx = 0.90777, sy = 0.462354, theta = 0.117095
+Estimated registration sx = 0.90777, sy = 0.462354, theta = 0.117095
+
+********************************************
+Image 7
+Initial registration   sx = -0.436237, sy = -0.299823, theta = 0.289171
+Previous registration  sx = -0.531683, sy = -0.380683, theta = 0.0861004
+Estimated registration sx = -0.529891, sy = -0.38054, theta = 0.0874998
+
+********************************************
+Image 8
+Initial registration   sx = 0.66073, sy = 0.525123, theta = 0.226594
+Previous registration  sx = -0.664259, sy = -3.4607, theta = -0.81305
+Estimated registration sx = -0.664259, sy = -3.4607, theta = -0.81305
+
+********************************************
+Image 9
+Initial registration   sx = -1.29565, sy = 0.415653, theta = 0.00369012
+Previous registration  sx = -1.48839, sy = 0.421472, theta = -0.216673
+Estimated registration sx = -1.4871, sy = 0.421448, theta = -0.214944
+
+********************************************
+Image 10
+Initial registration   sx = 0.794975, sy = 0.56839, theta = -0.1194
+Previous registration  sx = 0.462589, sy = 0.160473, theta = 0.0751627
+Estimated registration sx = 0.462263, sy = 0.159988, theta = 0.0738851
+Estimating the hyperparameters
+avg DxSigma = 0.00830302, avg DySigma = 0.00830302
+k = 1, e = 0.195961, xOx = 0, traceBkSigma = 0.115817, traceOSigma = 0
+k = 2, e = 0.500379, xOx = 0, traceBkSigma = 0.0795093, traceOSigma = 0
+k = 3, e = 0.391065, xOx = 0.00572419, traceBkSigma = 0.091786, traceOSigma = 0.000357415
+k = 4, e = 0.689848, xOx = 0, traceBkSigma = 0.0844139, traceOSigma = 0
+k = 5, e = 0.695552, xOx = 0.00939658, traceBkSigma = 0.0973872, traceOSigma = 0.000622665
+k = 6, e = 0.615481, xOx = 0, traceBkSigma = 0.0903363, traceOSigma = 0
+k = 7, e = 0.321271, xOx = 0.00478288, traceBkSigma = 0.0819841, traceOSigma = 0.000288407
+k = 8, e = 1.46263, xOx = 0, traceBkSigma = 0.0850471, traceOSigma = 0
+k = 9, e = 0.713237, xOx = 0.00942665, traceBkSigma = 0.0804267, traceOSigma = 0.000580039
+k = 10, e = 8.06817, xOx = 0.0966047, traceBkSigma = 0.0873467, traceOSigma = 0.00629116
+betak = 
+821.097 441.464 523.59 330.638 318.821 362.7 626.95 165.409 318.538 30.9987 
+alpha_h = 1.89139, alpha_v = 1.7254,xconv = 0.000575892
